@@ -31,7 +31,7 @@ When reporting a bug on this repository, you are expected to review the list bel
 <h2 align="left">Rules</h2>
 
 - Reports must follow the set formats and detail is required at all times.
-- Security vulnerabilities must be disclosed privately to [security@tridentbot.xyz](mailto:security@tridentbot.xyz).
+- Security vulnerabilities must be disclosed privately to [security@infiniti-development.com](mailto:security@infiniti-development.com).
 - Social engineering (e.g. phishing, vishing, smishing) is prohibited.
 - When duplicates occur, we only award the first report that was received (provided that it can be fully reproduced).
 - Submit one vulnerability per report, this is to keep everything organized.
@@ -45,15 +45,15 @@ When reporting a bug on this repository, you are expected to review the list bel
 
 **Only developers may add these to issues, __do not__ add them to your own issue.**
 
-[![label: invalid][~invalid]](https://github.com/tridentdiscord/bugs/labels/Invalid) - not a bug or not reproducible<br/>
-[![label: duplicate][~duplicate]](https://github.com/tridentdiscord/bugs/labels/Duplicate) - duplicate of another report<br/>
-[![label: incomplete][~incomplete]](https://github.com/tridentdiscord/bugs/labels/Incomplete) - more information required<br/>
-[![label: ui][~ui]](https://github.com/tridentdiscord/bugs/labels/Under%20Investigation) - issue under investigation
+[![label: invalid][~invalid]](https://github.com/InfinitiDevelopment/bugs/labels/Invalid) - not a bug or not reproducible<br/>
+[![label: duplicate][~duplicate]](https://github.com/InfinitiDevelopment/bugs/labels/Duplicate) - duplicate of another report<br/>
+[![label: incomplete][~incomplete]](https://github.com/InfinitiDevelopment/bugs/labels/Incomplete) - more information required<br/>
+[![label: ui][~ui]](https://github.com/InfinitiDevelopment/bugs/labels/Under%20Investigation) - issue under investigation
 
-[![label: critical][~critical]](https://github.com/tridentdiscord/bugs/labels/Critical%20Priority) - major issues with one of our services that could cause downtime<br/>
-[![label: high][~high]](https://github.com/tridentdiscord/bugs/labels/High%20Priority) - high priority issues that need to be resolved as soon as possible, but are not urgent<br/>
-[![label: medium][~medium]](https://github.com/tridentdiscord/bugs/labels/Medium%20Priority) - minor issue with one of our services, does not need to be urgently fixed<br/>
-[![label: low][~low]](https://github.com/tridentdiscord/bugs/labels/Low%20Priority) - trivial issue - visual or unaffecting, will be fixed once other issues are fixed<br/>
+[![label: critical][~critical]](https://github.com/InfinitiDevelopment/bugs/labels/Critical%20Priority) - major issues with one of our services that could cause downtime<br/>
+[![label: high][~high]](https://github.com/InfinitiDevelopment/bugs/labels/High%20Priority) - high priority issues that need to be resolved as soon as possible, but are not urgent<br/>
+[![label: medium][~medium]](https://github.com/InfinitiDevelopment/bugs/labels/Medium%20Priority) - minor issue with one of our services, does not need to be urgently fixed<br/>
+[![label: low][~low]](https://github.com/InfinitiDevelopment/bugs/labels/Low%20Priority) - trivial issue - visual or unaffecting, will be fixed once other issues are fixed<br/>
 
 [~critical]: https://img.shields.io/badge/-Critical%20Priority-BB0818.svg
 [~high]: https://img.shields.io/badge/-High%20Priority-D93F0B.svg
@@ -69,19 +69,8 @@ When reporting a bug on this repository, you are expected to review the list bel
 
 All security vulnerability reports must include detailed information on the vulnerability itself, how to reproduce it and evidence of the vulnerability. These will be looked over by the Core Team within 24 hours of the initial report, attaching your Discord Username is recommended, in case we need to reach out to you for further information and to reward you for the report.
 
-Please send vulnerability reports to [security@tridentbot.xyz](mailto:security@tridentbot.xyz)
+Please send vulnerability reports to [security@infiniti-development.com](mailto:security@infiniti-development.com)
 
 <div align="right">
-  <a href="https://top.gg/bot/1041159026324545566">
-    <img src="https://top.gg/api/widget/servers/1041159026324545566.svg">
-  </a>
-  <a href="https://top.gg/bot/1041159026324545566">
-    <img src="https://top.gg/api/widget/status/1041159026324545566.svg" />
-  </a>
-  <a href="https://top.gg/bot/1041159026324545566">
-  <img src="https://top.gg/api/widget/owner/1041159026324545566.svg">
-  </a>
-  <a href="https://top.gg/bot/1041159026324545566">
-    <img src="https://top.gg/api/widget/upvotes/1041159026324545566.svg">
-  </a>
+
 </div>
