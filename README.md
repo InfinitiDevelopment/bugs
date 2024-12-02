@@ -28,7 +28,7 @@ When reporting a bug on this repository, you are expected to review the list bel
   </tr>
   <tr align="center">
     <td>6</td>
-    <td>Super Bug Hunter Role</td>
+    <td>Super Bug Hunter Role + One month InfinitiMusic Premium</td>
   </tr>
 </table>
 
