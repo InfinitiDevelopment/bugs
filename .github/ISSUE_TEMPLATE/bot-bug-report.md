@@ -2,7 +2,7 @@
 name: Bot Bug Report
 about: Report a bug related to the bot
 title: ''
-labels: ''
+labels: 'Bot'
 assignees: 'Lucky13'
 
 ---
