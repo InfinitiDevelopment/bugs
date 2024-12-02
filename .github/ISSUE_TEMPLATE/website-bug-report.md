@@ -2,8 +2,8 @@
 name: Website Bug Report
 about: Report a bug related to the website
 title: ''
-labels: ''
-assignees: 'Lucky13'
+labels: 'Website'
+assignees: 'Lucky13-Infiniti'
 
 ---
 
