@@ -26,7 +26,12 @@ When reporting a bug on this repository, you are expected to review the list bel
     <td>3</td>
     <td>Bug Hunter Role</td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td>Bug Hunter Role</td>
+  </tr>
 </table>
+
 
 <h2 align="left">Rules</h2>
 
