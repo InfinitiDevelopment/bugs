@@ -3,7 +3,7 @@ name: Bot Bug Report
 about: Report a bug related to the bot
 title: ''
 labels: 'Bot'
-assignees: 'Lucky13'
+assignees: 'Lucky13-Infiniti'
 
 ---
 
