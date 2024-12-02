@@ -3,7 +3,7 @@ name: Bot Bug Report
 about: Report a bug related to the bot
 title: ''
 labels: ''
-assignees: 'Flqsh, LostBreezely'
+assignees: 'Lucky13'
 
 ---
 
